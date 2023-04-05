@@ -1,11 +1,12 @@
-# postcss-varfallback
+# postcss-var-fallback
+
 > Use the fallback value of any var reference
 
 ## Installation
 
 ```sh
-npm install postcss-varfallback
-postcss -u postcss-varfallback -o dist/index.css src/index.css
+yarn add -D postcss-var-fallback
+postcss -u postcss-var-fallback -o dist/index.css src/index.css
 ```
 
 ## Usage
