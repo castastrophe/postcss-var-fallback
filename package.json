@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "postcss-var-fallback",
+  "name": "postcss-vars-add-fallback",
   "version": "1.0.0",
   "description": "A postcss plugin to use the fallback value of any var reference.",
   "license": "Apache-2.0",
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/castastrophe/postcss-var-fallback.git"
+    "url": "https://github.com/castastrophe/postcss-vars-add-fallback.git"
   },
   "bugs": {
-    "url": "https://github.com/castastrophe/postcss-var-fallback/issues"
+    "url": "https://github.com/castastrophe/postcss-vars-add-fallback/issues"
   },
   "main": "index.js",
   "files": [
