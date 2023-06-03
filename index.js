@@ -12,7 +12,7 @@ function getFallbackNode(node) {
 
 module.exports = () => {
   return {
-    postcssPlugin: 'postcss-varfallback',
+    postcssPlugin: 'postcss-var-fallback',
     Declaration(decl) {
       const parsed = valueParser(decl.value);
       if (!parsed.nodes || !parsed.nodes.length) {
