@@ -51,7 +51,7 @@
     "@semantic-release/release-notes-generator": "^11.0.4",
     "ava": "^5.2.0",
     "c8": "^8.0.0",
-    "husky": "^8.0.3",
+    "husky": "^9.1.6",
     "lint-staged": "^13.2.0",
     "postcss": "^8.4.24",
     "prettier": "^2.8.8",
